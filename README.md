@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Thant Zin Phyo — Software Developer. I write code that ships." width="100%">
+<img src="banner.svg" alt="Thant Zin Phyo — Software Developer. I write code that ships." width="100%">
 
 <a href="mailto:thantzinphyo.business77@gmail.com"><img src="https://img.shields.io/badge/Email-3B2A1A?style=for-the-badge&logo=gmail&logoColor=F3E9D2" alt="Email"></a>
 <a href="https://portfolio-website-3g9.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-8B5A2B?style=for-the-badge&logo=googlechrome&logoColor=F3E9D2" alt="Portfolio"></a>
