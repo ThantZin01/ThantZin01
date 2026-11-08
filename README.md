@@ -5,7 +5,7 @@
 <a href="mailto:thantzinphyo.business77@gmail.com"><img src="https://img.shields.io/badge/Email-3B2A1A?style=for-the-badge&logo=gmail&logoColor=F3E9D2" alt="Email"></a>
 <a href="https://portfolio-website-3g9.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-8B5A2B?style=for-the-badge&logo=googlechrome&logoColor=F3E9D2" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/thant-zin-38304241b/"><img src="https://img.shields.io/badge/LinkedIn-3B2A1A?style=for-the-badge&logo=linkedin&logoColor=F3E9D2" alt="LinkedIn"></a>
-<a href="https://www.tiktok.com/@bside817"><img src="https://img.shields.io/badge/TikTok-8B5A2B?style=for-the-badge&logo=tiktok&logoColor=F3E9D2" alt="TikTok"></a>
+<a href="https://www.tiktok.com/@bside101"><img src="https://img.shields.io/badge/TikTok-8B5A2B?style=for-the-badge&logo=tiktok&logoColor=F3E9D2" alt="TikTok"></a>
 
 </div>
 
